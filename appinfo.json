@@ -1,0 +1,60 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "immergodev@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Reminder_windows",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/immergo_logo_5_converted.png",
+                "name": "IMMERGO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tick_white.png",
+                "name": "TICK_WHITE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tick_black.png",
+                "name": "TICK_BLACK",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cross.png",
+                "name": "CROSS",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/action_icon_YES (copy).png",
+                "name": "TICK_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/save33X31.png",
+                "name": "SAVE_IT",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Reminder_windows",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "5db767c6-507e-4bc3-bb9b-7c0a39d1696a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
